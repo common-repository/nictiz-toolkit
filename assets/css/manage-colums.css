@@ -1,0 +1,29 @@
+#nictitate_toolkit_ii-datetime > i {
+    font-size: 80%;
+    color: #0074a2;
+}
+.nictitate_toolkit_ii-social-link {
+    display: inline-block;
+    margin-right: 5px;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFF;
+    font-size: 16px;
+}
+.nictitate_toolkit_ii-social-link.nictitate_toolkit_ii-sl-facebook {
+    background-color: #3B5998;
+}
+.nictitate_toolkit_ii-social-link.nictitate_toolkit_ii-sl-twitter {
+    background-color: #00A0D1;
+}
+.nictitate_toolkit_ii-social-link.nictitate_toolkit_ii-sl-google_plus {
+    background-color: #C63D2D;
+}
+.nictitate_toolkit_ii-social-link.nictitate_toolkit_ii-sl-dribbble {
+    background-color: #C62D8D;
+}
+.nictitate_toolkit_ii-social-link:hover {
+    color: #FFF;
+}

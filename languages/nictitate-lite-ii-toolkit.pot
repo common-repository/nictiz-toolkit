@@ -1,0 +1,1838 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nictitate Lite II Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Mar 18 2016 16:14:37 GMT+0700 (ICT)\n"
+"POT-Revision-Date: Fri Mar 18 2016 16:14:42 GMT+0700 (ICT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Nictitate Lite II Toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A specific plugin use in Nictitate Lite II Theme to help you register post "
+"types, widgets and shortcodes."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kopatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kopatheme.com"
+msgstr ""
+
+#: ../nictiz-toolkit.php:108 ../inc/post-types/staff/staff.php:186
+msgid "Facebook"
+msgstr ""
+
+#: ../nictiz-toolkit.php:109 ../inc/post-types/staff/staff.php:187
+msgid "Twitter"
+msgstr ""
+
+#: ../nictiz-toolkit.php:110
+msgid "Rss"
+msgstr ""
+
+#: ../nictiz-toolkit.php:111
+msgid "Pinterest"
+msgstr ""
+
+#: ../nictiz-toolkit.php:112 ../inc/post-types/staff/staff.php:188
+msgid "Google Plus"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/kucrut/wp-menu-item-custom-fields"
+msgstr ""
+
+#. Description of the plugin
+msgid "Example usage of Menu Item Custom Fields in plugins/themes"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dzikri Aziz"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kucrut.org"
+msgstr ""
+
+#: ../addons/menu-item-custom-fields/hook.php:50
+msgid "Megamenu shortcode"
+msgstr ""
+
+#: ../addons/menu-item-custom-fields/hook.php:51
+msgid "Font awesome icon"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easily add custom fields to nav menu items"
+msgstr ""
+
+#: ../inc/shortcode-util.php:40
+msgid "Nictitate Lite Elements"
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:19
+msgid "Gallery:"
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:22
+msgid "This option only apply for post-format \"Gallery\"."
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:25
+msgid "Quote:"
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:28
+msgid "This option only apply for post-format \"Quote\"."
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:31
+msgid "Link to:"
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:34
+msgid "This option only apply for post-format \"Link\"."
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:37
+msgid "Custom:"
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:40
+msgid "Enter custom content as shortcode or custom HTML, ..."
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:46
+msgid "Featured content"
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:65
+msgid "Message:"
+msgstr ""
+
+#: ../inc/fields/metabox/post.php:75
+msgid "Author:"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:21 ../inc/post-types/client/client.php:33
+msgid "Clients"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:22 ../inc/post-types/portfolio/portfolio.
+#: php:152
+msgid "Client"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:23 ../inc/post-types/megamenu/megamenu.php:
+#: 24 ../inc/post-types/portfolio/portfolio.php:35 ../inc/post-
+#: types/service/service.php:24 ../inc/post-types/skill/skill.php:21 ../inc/post-
+#: types/slides/slide.php:21 ../inc/post-types/staff/staff.php:23 ../inc/post-
+#: types/testimonial/testimonial.php:24
+msgid "Add New"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:24 ../inc/post-types/portfolio/portfolio.
+#: php:36 ../inc/post-types/service/service.php:25 ../inc/post-types/staff/staff.
+#: php:24 ../inc/post-types/testimonial/testimonial.php:25
+msgid "Add New Item"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:25 ../inc/post-types/portfolio/portfolio.
+#: php:37 ../inc/post-types/service/service.php:26 ../inc/post-types/staff/staff.
+#: php:25 ../inc/post-types/testimonial/testimonial.php:26
+msgid "Edit Item"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:26 ../inc/post-types/portfolio/portfolio.
+#: php:38 ../inc/post-types/service/service.php:27 ../inc/post-types/staff/staff.
+#: php:26 ../inc/post-types/testimonial/testimonial.php:27
+msgid "New Item"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:27 ../inc/post-types/portfolio/portfolio.
+#: php:39 ../inc/post-types/service/service.php:28 ../inc/post-types/staff/staff.
+#: php:27 ../inc/post-types/testimonial/testimonial.php:28
+msgid "All Items"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:28 ../inc/post-types/portfolio/portfolio.
+#: php:40 ../inc/post-types/service/service.php:29 ../inc/post-types/staff/staff.
+#: php:28 ../inc/post-types/testimonial/testimonial.php:29
+msgid "View Item"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:29 ../inc/post-types/portfolio/portfolio.
+#: php:41 ../inc/post-types/service/service.php:30 ../inc/post-types/staff/staff.
+#: php:29 ../inc/post-types/testimonial/testimonial.php:30
+msgid "Search Items"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:30 ../inc/post-types/portfolio/portfolio.
+#: php:42 ../inc/post-types/service/service.php:31 ../inc/post-types/staff/staff.
+#: php:30 ../inc/post-types/testimonial/testimonial.php:31
+msgid "No items found"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:31 ../inc/post-types/portfolio/portfolio.
+#: php:43 ../inc/post-types/service/service.php:32 ../inc/post-types/staff/staff.
+#: php:31 ../inc/post-types/testimonial/testimonial.php:32
+msgid "No items found in Trash"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:61 ../inc/post-types/client/client.php:75 .
+#: ./inc/post-types/client/client.php:149
+msgid "Client Categories"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:62 ../inc/post-types/service/service.php:
+#: 64 ../inc/post-types/staff/staff.php:62 ../inc/post-
+#: types/testimonial/testimonial.php:64
+msgid "Category"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:63 ../inc/post-types/service/service.php:
+#: 65 ../inc/post-types/staff/staff.php:63 ../inc/post-
+#: types/testimonial/testimonial.php:65
+msgid "Search Category"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:64
+msgid "Popular Clients"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:65
+msgid "All Clients"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:68
+msgid "Edit Client"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:69
+msgid "Update Client"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:70
+msgid "Add New Client"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:71
+msgid "New Client Name"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:72 ../inc/post-types/service/service.php:
+#: 74 ../inc/post-types/staff/staff.php:72 ../inc/post-
+#: types/testimonial/testimonial.php:74
+msgid "Separate categories with commas"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:73 ../inc/post-types/portfolio/portfolio.
+#: php:86 ../inc/post-types/service/service.php:75 ../inc/post-types/staff/staff.
+#: php:73 ../inc/post-types/testimonial/testimonial.php:75
+msgid "Add or remove category"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:74 ../inc/post-types/service/service.php:
+#: 76 ../inc/post-types/staff/staff.php:74 ../inc/post-
+#: types/testimonial/testimonial.php:76
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:93 ../inc/post-types/client/client.php:107 
+#: ../inc/post-types/client/client.php:150
+msgid "Client Tags"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:94 ../inc/post-types/portfolio/portfolio.
+#: php:107 ../inc/post-types/service/service.php:96 ../inc/post-types/skill/skill.
+#: php:54 ../inc/post-types/slides/slide.php:54 ../inc/post-types/slides/slide.
+#: php:63 ../inc/post-types/staff/staff.php:94 ../inc/post-
+#: types/testimonial/testimonial.php:96 ../inc/shortcodes/pricing-table.php:60
+msgid "Tag"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:95 ../inc/post-types/portfolio/portfolio.
+#: php:108 ../inc/post-types/service/service.php:97 ../inc/post-types/staff/staff.
+#: php:95 ../inc/post-types/testimonial/testimonial.php:97
+msgid "Search Tag"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:96 ../inc/post-types/portfolio/portfolio.
+#: php:109 ../inc/post-types/service/service.php:98 ../inc/post-types/staff/staff.
+#: php:96 ../inc/post-types/testimonial/testimonial.php:98
+msgid "Popular Tags"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:97 ../inc/post-types/portfolio/portfolio.
+#: php:110 ../inc/post-types/service/service.php:99 ../inc/post-types/skill/skill.
+#: php:56 ../inc/post-types/slides/slide.php:56 ../inc/post-types/staff/staff.php:
+#: 97 ../inc/post-types/testimonial/testimonial.php:99 ../inc/shortcodes/pricing-
+#: table.php:53
+msgid "All Tags"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:100 ../inc/post-types/portfolio/portfolio.
+#: php:113 ../inc/post-types/service/service.php:102 ../inc/post-
+#: types/skill/skill.php:59 ../inc/post-types/slides/slide.php:59 ../inc/post-
+#: types/staff/staff.php:100 ../inc/post-types/testimonial/testimonial.php:102 ..
+#: /inc/shortcodes/pricing-table.php:56
+msgid "Edit Tag"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:101 ../inc/post-types/portfolio/portfolio.
+#: php:114 ../inc/post-types/service/service.php:103 ../inc/post-
+#: types/skill/skill.php:60 ../inc/post-types/slides/slide.php:60 ../inc/post-
+#: types/staff/staff.php:101 ../inc/post-types/testimonial/testimonial.php:103 ..
+#: /inc/shortcodes/pricing-table.php:57
+msgid "Update Tag"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:102 ../inc/post-types/portfolio/portfolio.
+#: php:115 ../inc/post-types/service/service.php:104 ../inc/post-
+#: types/skill/skill.php:61 ../inc/post-types/slides/slide.php:61 ../inc/post-
+#: types/staff/staff.php:102 ../inc/post-types/testimonial/testimonial.php:104 ..
+#: /inc/shortcodes/pricing-table.php:58
+msgid "Add New Tag"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:103 ../inc/post-types/portfolio/portfolio.
+#: php:116 ../inc/post-types/service/service.php:105 ../inc/post-
+#: types/skill/skill.php:62 ../inc/post-types/slides/slide.php:62 ../inc/post-
+#: types/staff/staff.php:103 ../inc/post-types/testimonial/testimonial.php:105 ..
+#: /inc/shortcodes/pricing-table.php:59
+msgid "New Tag Name"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:104 ../inc/post-types/portfolio/portfolio.
+#: php:117 ../inc/post-types/service/service.php:106 ../inc/post-
+#: types/staff/staff.php:104 ../inc/post-types/testimonial/testimonial.php:106
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:105 ../inc/post-types/portfolio/portfolio.
+#: php:118 ../inc/post-types/service/service.php:107 ../inc/post-
+#: types/staff/staff.php:105 ../inc/post-types/testimonial/testimonial.php:107
+msgid "Add or remove tag"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:106 ../inc/post-types/portfolio/portfolio.
+#: php:119 ../inc/post-types/service/service.php:108 ../inc/post-
+#: types/staff/staff.php:106 ../inc/post-types/testimonial/testimonial.php:108
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:127 ../inc/post-types/service/service.php:
+#: 140 ../inc/post-types/testimonial/testimonial.php:129
+msgid "Meta box"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:134
+msgid "Client URL:"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:147 ../inc/post-types/megamenu/megamenu.
+#: php:167 ../inc/post-types/portfolio/portfolio.php:183 ../inc/post-
+#: types/service/service.php:181 ../inc/post-types/skill/skill.php:104 ..
+#: /inc/post-types/slides/slide.php:110 ../inc/post-types/staff/staff.php:166 ..
+#: /inc/shortcodes/pricing-table.php:195
+msgid "<input type=\"checkbox\" />"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:148 ../inc/post-
+#: types/contact/widgets/contact-form.php:22 ../inc/post-
+#: types/contact/widgets/google-map.php:28 ../inc/post-types/contact/widgets/map-
+#: contactform.php:28 ../inc/post-types/megamenu/megamenu.php:168 ../inc/post-
+#: types/portfolio/portfolio.php:184 ../inc/post-types/service/service.php:182 ..
+#: /inc/post-types/skill/skill.php:105 ../inc/post-types/skill/widgets/skill-
+#: counter.php:24 ../inc/post-types/slides/slide.php:112 ../inc/post-
+#: types/slides/widgets/slider-carousel-full.php:24 ../inc/post-
+#: types/slides/widgets/slider-carousel.php:24 ../inc/post-types/staff/staff.php:
+#: 167 ../inc/post-types/staff/widgets/staff-list.php:24 ..
+#: /inc/shortcodes/pricing-table.php:196 ../inc/widgets/flickr.php:24
+msgid "Title"
+msgstr ""
+
+#: ../inc/post-types/client/client.php:151 ../inc/post-
+#: types/client/widgets/clients.php:70 ../inc/post-types/portfolio/portfolio.php:
+#: 157 ../inc/post-types/portfolio/portfolio.php:187 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:67 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:67 ../inc/post-types/post/post.php:82 ..
+#: /inc/post-types/service/service.php:185 ../inc/post-
+#: types/service/widgets/services-as-tab.php:67 ../inc/post-
+#: types/service/widgets/services.php:67 ../inc/post-types/staff/staff.php:170 ..
+#: /inc/post-types/testimonial/widgets/testimonials-slider-bg.php:67 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:67
+msgid "Date"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:33
+msgid "Display a clients widget."
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:35
+msgid "__Clients"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:40 ../inc/post-
+#: types/contact/widgets/contact-info-lite.php:22 ../inc/post-
+#: types/contact/widgets/contact-info.php:22 ../inc/post-
+#: types/contact/widgets/mailchimp-subscribe.php:23 ../inc/post-
+#: types/contact/widgets/subscrible.php:23 ../inc/post-
+#: types/megamenu/widgets/custom-nav.php:30 ../inc/post-
+#: types/megamenu/widgets/single-post.php:23 ../inc/post-
+#: types/portfolio/widgets/portfolio-single.php:34 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:37 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:37 ../inc/post-types/post/post.php:43 ..
+#: /inc/post-types/post/widgets/recent-posts.php:23 ../inc/post-
+#: types/service/widgets/services-as-tab.php:37 ../inc/post-
+#: types/service/widgets/services.php:37 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:37 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:37 ../inc/widgets/about-site.
+#: php:23 ../inc/widgets/recent-comment.php:23 ../inc/widgets/tagline.php:23
+msgid "Title:"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:45 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:42 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:42 ../inc/post-types/post/post.php:48 ..
+#: /inc/post-types/service/widgets/services-as-tab.php:42 ../inc/post-
+#: types/service/widgets/services.php:42 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:42 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:42
+msgid "Categories:"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:51 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:48 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:48 ../inc/post-types/post/post.php:54 ..
+#: /inc/post-types/service/widgets/services-as-tab.php:48 ../inc/post-
+#: types/service/widgets/services.php:48 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:48 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:48
+msgid "Relation:"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:54 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:51 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:51 ../inc/post-types/post/post.php:57 ..
+#: /inc/post-types/service/widgets/services-as-tab.php:51 ../inc/post-
+#: types/service/widgets/services.php:51 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:51 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:51
+msgid "AND"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:55 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:52 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:52 ../inc/post-types/post/post.php:58 ..
+#: /inc/post-types/service/widgets/services-as-tab.php:52 ../inc/post-
+#: types/service/widgets/services.php:52 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:52 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:52
+msgid "OR"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:61 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:58 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:58 ../inc/post-types/post/post.php:64 ..
+#: /inc/post-types/service/widgets/services-as-tab.php:58 ../inc/post-
+#: types/service/widgets/services.php:58 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:58 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:58
+msgid "Tags:"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:68 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:65 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:65 ../inc/post-types/post/post.php:80 ..
+#: /inc/post-types/service/widgets/services-as-tab.php:65 ../inc/post-
+#: types/service/widgets/services.php:65 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:65 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:65
+msgid "Orderby:"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:71 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:68 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:68 ../inc/post-types/post/post.php:83 ..
+#: /inc/post-types/service/widgets/services-as-tab.php:68 ../inc/post-
+#: types/service/widgets/services.php:68 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:68 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:68
+msgid "Random"
+msgstr ""
+
+#: ../inc/post-types/client/widgets/clients.php:77 ../inc/post-
+#: types/portfolio/widgets/portfolios-circle.php:74 ../inc/post-
+#: types/portfolio/widgets/portfolios.php:74 ../inc/post-
+#: types/service/widgets/services-as-tab.php:74 ../inc/post-
+#: types/service/widgets/services.php:74 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider-bg.php:74 ../inc/post-
+#: types/testimonial/widgets/testimonials-slider.php:74
+msgid "Number of items"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-form.php:15
+msgid "Display Contact Form."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-form.php:17
+msgid "__Contact Form"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info-lite.php:14 ../inc/post-
+#: types/contact/widgets/contact-info.php:14
+msgid "Show contact info."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info-lite.php:16
+msgid "__Contact Info Lite"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info-lite.php:27 ../inc/post-
+#: types/contact/widgets/contact-info-lite.php:61 ../inc/post-
+#: types/contact/widgets/contact-info.php:27
+msgid "Phone:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info-lite.php:32 ../inc/post-
+#: types/contact/widgets/contact-info.php:42
+msgid "Address:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info-lite.php:37 ../inc/post-
+#: types/contact/widgets/contact-info-lite.php:83 ../inc/post-
+#: types/contact/widgets/contact-info.php:37 ../inc/post-types/staff/staff.php:135
+msgid "Email:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info-lite.php:72
+msgid "Add:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info.php:16
+msgid "__Contact Info"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info.php:32
+msgid "Fax:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/contact-info.php:47
+msgid "Show social follow:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/google-map.php:21
+msgid "Display your google map."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/google-map.php:23
+msgid "__Google Map"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/google-map.php:33 ../inc/post-
+#: types/contact/widgets/map-contactform.php:33
+msgid "Latitude"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/google-map.php:38 ../inc/post-
+#: types/contact/widgets/map-contactform.php:38
+msgid "Longtitude"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/google-map.php:43 ../inc/post-
+#: types/contact/widgets/map-contactform.php:43
+msgid "Location"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/google-map.php:48
+msgid "Height"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:15
+msgid "Display mailchimp newsletter subscription form."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:17
+msgid "__Mailchimp Subscribe"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:27 ../inc/post-
+#: types/contact/widgets/subscrible.php:32
+msgid "Enter your email"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:28 ../inc/post-
+#: types/contact/widgets/subscrible.php:33
+msgid "Placeholder text:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:32
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:33
+msgid "Submit button text:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:38 ../inc/post-
+#: types/contact/widgets/subscrible.php:28
+msgid "Description:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:43 ../inc/post-
+#: types/contact/widgets/subscrible.php:38
+msgid "List ID:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-subscribe.php:49 ../inc/post-
+#: types/contact/widgets/subscrible.php:44
+msgid "Your API Key:"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/map-contactform.php:21
+msgid "Display Contact Form with Google Map."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/map-contactform.php:23
+msgid "__Contact Form 2"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/subscrible.php:15
+msgid "Displays subscribe form."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/subscrible.php:17
+msgid "__Subscrible"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-api/inc/mailchimp.php:7
+msgid "Processing ..."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-api/inc/mailchimp.php:15
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-api/inc/mailchimp.php:19
+msgid "Email address is invalid."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-api/inc/mailchimp.php:26
+msgid "Security check"
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-api/inc/mailchimp.php:32
+msgid "API Key or List ID is incorrect."
+msgstr ""
+
+#: ../inc/post-types/contact/widgets/mailchimp-api/inc/mailchimp.php:47
+msgid "Success! Check your email to confirm sign up."
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:20 ../inc/post-types/megamenu/megamenu.
+#: php:22 ../inc/post-types/megamenu/megamenu.php:23
+msgid "Mega Menus"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:21
+msgid "Mega Menu"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:25
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:26
+msgid "New Mega Menu"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:27
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:28
+msgid "View Mega Menu"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:29
+msgid "All Mega Menus"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:30
+msgid "Search Mega Menus"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:31
+msgid "No mega menus found."
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:32
+msgid "No mega menus found in Trash."
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:59
+msgid "Detail"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:68
+msgid "---Choose column---"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:69
+msgid " 1 column"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:70
+msgid " 2 columns"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:71
+msgid " 3 columns"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:72
+msgid " 4 columns"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:73
+msgid " 6 columns"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:77
+msgid "--None--"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:87 ../inc/post-types/megamenu/megamenu.
+#: php:169 ../inc/shortcodes/pricing-table.php:197
+msgid "Shortcode"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:94
+msgid "Number columns"
+msgstr ""
+
+#: ../inc/post-types/megamenu/megamenu.php:113
+msgid "Column "
+msgstr ""
+
+#: ../inc/post-types/megamenu/widgets/custom-nav.php:15
+msgid "Display custom nav menu for megamenu. Only show parent level."
+msgstr ""
+
+#: ../inc/post-types/megamenu/widgets/custom-nav.php:17
+msgid "__Menu With Icon"
+msgstr ""
+
+#: ../inc/post-types/megamenu/widgets/custom-nav.php:31 ../inc/post-
+#: types/megamenu/widgets/single-post.php:24
+msgid "Title will not show in font end."
+msgstr ""
+
+#: ../inc/post-types/megamenu/widgets/custom-nav.php:35
+msgid "Select Menu:"
+msgstr ""
+
+#: ../inc/post-types/megamenu/widgets/single-post.php:15
+msgid "Show detail of one post by ID for megamenu."
+msgstr ""
+
+#: ../inc/post-types/megamenu/widgets/single-post.php:17
+msgid "__Single Post"
+msgstr ""
+
+#: ../inc/post-types/megamenu/widgets/single-post.php:28
+msgid "Post ID to show:"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:33
+msgid "Portfolios"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:34 ../inc/post-
+#: types/portfolio/portfolio.php:45
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:74 ../inc/post-
+#: types/portfolio/portfolio.php:185
+msgid "Portfolio Projects"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:75
+msgid "Project"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:76
+msgid "Search Project"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:77
+msgid "Popular Projects"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:78
+msgid "All Projects"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:81
+msgid "Edit Project"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:82
+msgid "Update Project"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:83
+msgid "Add New Project"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:84
+msgid "New Project Name"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:85
+msgid "Separate projects with commas"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:87
+msgid "Choose from the most used projects"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:88
+msgid "Projects"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:106 ../inc/post-
+#: types/portfolio/portfolio.php:186
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:120 ../inc/post-types/skill/skill.
+#: php:63 ../inc/post-types/skill/skill.php:107 ../inc/post-
+#: types/skill/widgets/skill-counter.php:47 ../inc/post-types/slides/slide.php:
+#: 113 ../inc/post-types/slides/widgets/slider-carousel-full.php:50 ../inc/post-
+#: types/slides/widgets/slider-carousel.php:50 ../inc/post-
+#: types/staff/widgets/staff-list.php:59
+msgid "Tags"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:140
+msgid "Portfolio information"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:147
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:165
+msgid "Website"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:170
+msgid "Custom Thumbnail URL"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:173
+msgid "Only work in Widget __Portfolios Circle"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:196
+msgid "Portfolio Archive"
+msgstr ""
+
+#: ../inc/post-types/portfolio/portfolio.php:242
+msgid "Add to Menu"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolio-single.php:27
+msgid "Display a single portfolio widget."
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolio-single.php:29
+msgid "__Single Portfolio"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolio-single.php:38
+msgid "Select a post"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolio-single.php:45
+msgid "Number of excerpt length"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolio-single.php:77
+msgid "view more"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolios-circle.php:30
+msgid "Display a portfolios circle widget."
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolios-circle.php:32
+msgid "__Portfolios Circle"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolios.php:30
+msgid "Display a portfolios widget."
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolios.php:32
+msgid "__Portfolios"
+msgstr ""
+
+#: ../inc/post-types/portfolio/widgets/portfolios.php:198
+msgid "view all portfolio"
+msgstr ""
+
+#: ../inc/post-types/post/post.php:28 ../inc/post-types/post/post.php:34
+msgid "-- none --"
+msgstr ""
+
+#: ../inc/post-types/post/post.php:71
+msgid "Order:"
+msgstr ""
+
+#: ../inc/post-types/post/post.php:73
+msgid "ASC"
+msgstr ""
+
+#: ../inc/post-types/post/post.php:74
+msgid "DESC"
+msgstr ""
+
+#: ../inc/post-types/post/post.php:84
+msgid "Number of comments"
+msgstr ""
+
+#: ../inc/post-types/post/post.php:90 ../inc/post-types/post/widgets/recent-posts.
+#: php:28
+msgid "Number of posts:"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-3-col.php:16
+msgid "Display a posts list 3 col widget. First post big thumb."
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-3-col.php:18
+msgid "__Posts List 3 Col"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-3-col.php:23
+msgid "Excerpt length post big thumb:"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-3-col.php:29 ../inc/post-
+#: types/post/widgets/posts-list-carousel.php:23
+msgid "Excerpt length:"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-3-col.php:34
+msgid "view all post"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-3-col.php:35 ../inc/widgets/tagline.
+#: php:28
+msgid "Button Text:"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-3-col.php:41 ../inc/widgets/tagline.
+#: php:33
+msgid "Button URL:"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-3-col.php:86 ../inc/post-
+#: types/post/widgets/posts-list-3-col.php:118
+msgid "Com"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-carousel.php:16
+msgid "Display a posts list carousel widget."
+msgstr ""
+
+#: ../inc/post-types/post/widgets/posts-list-carousel.php:18
+msgid "__Posts List Carousel"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/recent-posts.php:15
+msgid "Display recent posts."
+msgstr ""
+
+#: ../inc/post-types/post/widgets/recent-posts.php:17
+msgid "__Recent Posts"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/recent-posts.php:34
+msgid "Display post date?"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/recent-posts.php:39
+msgid "Display post author?"
+msgstr ""
+
+#: ../inc/post-types/post/widgets/recent-posts.php:74
+msgid "by "
+msgstr ""
+
+#: ../inc/post-types/post/widgets/recent-posts.php:77
+msgid "on "
+msgstr ""
+
+#: ../inc/post-types/service/service.php:22 ../inc/post-types/service/service.php:
+#: 34
+msgid "Services"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:23
+msgid "Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:63 ../inc/post-types/service/service.php:
+#: 77
+msgid "Service Categories"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:66
+msgid "Popular Services"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:67
+msgid "All Services"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:70
+msgid "Edit Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:71
+msgid "Update Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:72
+msgid "Add New Service"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:73
+msgid "New Service Name"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:95 ../inc/post-types/service/service.php:
+#: 109
+msgid "Service Tags"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:131
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:147
+msgid "Choose icon:"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:153
+msgid "Link to external page:"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:156
+msgid "Leave it blank if you want to use static page option below."
+msgstr ""
+
+#: ../inc/post-types/service/service.php:160
+msgid "Link to static page:"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:167
+msgid "Service Expertise:"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:183 ../inc/post-types/staff/staff.php:168
+msgid "Services Categories"
+msgstr ""
+
+#: ../inc/post-types/service/service.php:184 ../inc/post-types/staff/staff.php:169
+msgid "Services Tags"
+msgstr ""
+
+#: ../inc/post-types/service/widgets/services-as-tab.php:30
+msgid "Display list services as tab."
+msgstr ""
+
+#: ../inc/post-types/service/widgets/services-as-tab.php:32
+msgid "__Services Tab"
+msgstr ""
+
+#: ../inc/post-types/service/widgets/services.php:30
+msgid "Display a services widget."
+msgstr ""
+
+#: ../inc/post-types/service/widgets/services.php:32
+msgid "__Services"
+msgstr ""
+
+#: ../inc/post-types/service/widgets/services.php:142
+msgid "more info"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:17 ../inc/post-types/skill/skill.php:19
+msgid "Skills"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:18 ../inc/post-types/skill/skill.php:20
+msgid "Skill"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:22
+msgid "Add New Skill"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:23
+msgid "New Skill"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:24
+msgid "Edit Skill"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:25
+msgid "View Skill"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:26
+msgid "All Skills"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:27
+msgid "Search Skills"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:28
+msgid "Parent Skills:"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:29
+msgid "No Skills found."
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:30
+msgid "No Skills found in Trash."
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:53
+msgid "Skill Tags"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:55 ../inc/post-types/slides/slide.php:55 ..
+#: /inc/shortcodes/pricing-table.php:52
+msgid "Search Tags"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:57 ../inc/post-types/slides/slide.php:57 ..
+#: /inc/shortcodes/pricing-table.php:54
+msgid "Parent Tag"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:58 ../inc/post-types/slides/slide.php:58 ..
+#: /inc/shortcodes/pricing-table.php:55
+msgid "Parent Tag:"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:82 ../inc/post-types/skill/skill.php:106
+msgid "Progress"
+msgstr ""
+
+#: ../inc/post-types/skill/skill.php:91
+msgid "Other info"
+msgstr ""
+
+#: ../inc/post-types/skill/widgets/skill-counter.php:16
+msgid "Display skill progress."
+msgstr ""
+
+#: ../inc/post-types/skill/widgets/skill-counter.php:18
+msgid "__Skill Counter"
+msgstr ""
+
+#: ../inc/post-types/skill/widgets/skill-counter.php:32 ../inc/post-
+#: types/staff/widgets/staff-list.php:31
+msgid "Number of skill"
+msgstr ""
+
+#: ../inc/post-types/skill/widgets/skill-counter.php:36 ../inc/post-
+#: types/slides/widgets/slider-carousel-full.php:39 ../inc/post-
+#: types/slides/widgets/slider-carousel.php:39 ../inc/post-
+#: types/staff/widgets/staff-list.php:48 ../inc/post-types/staff/widgets/staff-
+#: list.php:64
+msgid "-- All --"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:17 ../inc/post-types/slides/slide.php:19
+msgid "Slides"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:18 ../inc/post-types/slides/slide.php:20 ..
+#: /inc/post-types/slides/slide.php:111
+msgid "Slide"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:22
+msgid "Add New Slide"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:23
+msgid "New Slide"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:24
+msgid "Edit Slide"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:25
+msgid "View Slide"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:26
+msgid "All Slides"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:27
+msgid "Search Slides"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:28
+msgid "Parent Slides:"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:29
+msgid "No slides found."
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:30
+msgid "No slides found in Trash."
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:53
+msgid "Slide Tags"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:83
+msgid "Slide Extra"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:90
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/post-types/slides/slide.php:96
+msgid "Button URL"
+msgstr ""
+
+#: ../inc/post-types/slides/widgets/slider-carousel-full.php:16
+msgid "Display simple slider carousel full width."
+msgstr ""
+
+#: ../inc/post-types/slides/widgets/slider-carousel-full.php:18
+msgid "__Slider Carousel Full"
+msgstr ""
+
+#: ../inc/post-types/slides/widgets/slider-carousel-full.php:31
+msgid "Excerpt length"
+msgstr ""
+
+#: ../inc/post-types/slides/widgets/slider-carousel-full.php:36 ../inc/post-
+#: types/slides/widgets/slider-carousel.php:36
+msgid "Number of slide"
+msgstr ""
+
+#: ../inc/post-types/slides/widgets/slider-carousel.php:16
+msgid "Display simple slider carousel."
+msgstr ""
+
+#: ../inc/post-types/slides/widgets/slider-carousel.php:18
+msgid "__Slider Carousel"
+msgstr ""
+
+#: ../inc/post-types/slides/widgets/slider-carousel.php:31
+msgid "Description"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:21 ../inc/post-types/staff/staff.php:33
+msgid "Staffs"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:22
+msgid "Staff"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:61 ../inc/post-types/staff/staff.php:75
+msgid "Staff Categories"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:64
+msgid "Popular Staffs"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:65
+msgid "All Staffs"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:68
+msgid "Edit Staff"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:69
+msgid "Update Staff"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:70
+msgid "Add New Staff"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:71
+msgid "New Staff Name"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:93 ../inc/post-types/staff/staff.php:107
+msgid "Staff Tags"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:129
+msgid "Position:"
+msgstr ""
+
+#: ../inc/post-types/staff/staff.php:153
+msgid "Staff Social Meta Box"
+msgstr ""
+
+#: ../inc/post-types/staff/widgets/staff-list.php:16
+msgid "Display Staffs."
+msgstr ""
+
+#: ../inc/post-types/staff/widgets/staff-list.php:18
+msgid "__Staff List"
+msgstr ""
+
+#: ../inc/post-types/staff/widgets/staff-list.php:37
+msgid "Items per row"
+msgstr ""
+
+#: ../inc/post-types/staff/widgets/staff-list.php:75
+msgid "Categories"
+msgstr ""
+
+#: ../inc/post-types/staff/widgets/staff-list.php:82
+msgid "Relation"
+msgstr ""
+
+#: ../inc/post-types/staff/widgets/staff-list.php:85
+msgid "Or"
+msgstr ""
+
+#: ../inc/post-types/staff/widgets/staff-list.php:86
+msgid "And"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:22 ../inc/post-
+#: types/testimonial/testimonial.php:34
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:23
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:63 ../inc/post-
+#: types/testimonial/testimonial.php:77
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:66
+msgid "Popular Testimonials"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:67
+msgid "All Testimonials"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:70
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:71
+msgid "Update Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:72
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:73
+msgid "New Testimonial Name"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:95 ../inc/post-
+#: types/testimonial/testimonial.php:109
+msgid "Testimonial Tags"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:136
+msgid "Author URL:"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:149
+msgid " <input type=\"checkbox\" />"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:150
+msgid " Title"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:151
+msgid " Services Categories"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:152
+msgid " Services Tags"
+msgstr ""
+
+#: ../inc/post-types/testimonial/testimonial.php:153
+msgid " Date"
+msgstr ""
+
+#: ../inc/post-types/testimonial/widgets/testimonials-slider-bg.php:30
+msgid "Display a testimonials slider widget. Background content."
+msgstr ""
+
+#: ../inc/post-types/testimonial/widgets/testimonials-slider-bg.php:32
+msgid "__Testimonials Slider BG"
+msgstr ""
+
+#: ../inc/post-types/testimonial/widgets/testimonials-slider.php:30
+msgid "Display a testimonials slider widget."
+msgstr ""
+
+#: ../inc/post-types/testimonial/widgets/testimonials-slider.php:32
+msgid "__Testimonials Slider"
+msgstr ""
+
+#: ../inc/shortcodes/accordion-1.php:7
+msgid "Accordion 1"
+msgstr ""
+
+#: ../inc/shortcodes/accordion-2.php:6
+msgid "Accordion 2"
+msgstr ""
+
+#: ../inc/shortcodes/accordion-3.php:6
+msgid "Accordion 3"
+msgstr ""
+
+#: ../inc/shortcodes/accordion-4.php:7
+msgid "Accordion 4"
+msgstr ""
+
+#: ../inc/shortcodes/accordion-5.php:7
+msgid "Accordion 5"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote-1.php:7
+msgid "Blockquote 1"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote-2.php:7
+msgid "Blockquote 2"
+msgstr ""
+
+#: ../inc/shortcodes/blockquote-3.php:7
+msgid "Blockquote 3"
+msgstr ""
+
+#: ../inc/shortcodes/button.php:7 ../inc/shortcodes/pricing-table.php:131
+msgid "Button"
+msgstr ""
+
+#: ../inc/shortcodes/caption.php:7
+msgid "Captions 1"
+msgstr ""
+
+#: ../inc/shortcodes/caption.php:11
+msgid "Captions 2"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:7
+msgid "Contact form 1"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:11
+msgid "Contact form 2"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:36 ../inc/shortcodes/contact-form.php:64
+msgid "First name"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:41 ../inc/shortcodes/contact-form.php:68
+msgid "Email Address"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:47
+msgid "Subject"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:51 ../inc/shortcodes/contact-form.php:72
+msgid "Enter your Message here"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:53 ../inc/shortcodes/contact-form.php:75
+msgid "Submit"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:119
+msgid "Website:"
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:124
+msgid "Oops! errors occured."
+msgstr ""
+
+#: ../inc/shortcodes/contact-form.php:126
+msgid "Success! Your email has been sent."
+msgstr ""
+
+#: ../inc/shortcodes/contact-info.php:7
+msgid "Contact Info 1"
+msgstr ""
+
+#: ../inc/shortcodes/contact-info.php:11
+msgid "Contact Info 2"
+msgstr ""
+
+#: ../inc/shortcodes/contact-info.php:15
+msgid "Contact Info 3"
+msgstr ""
+
+#: ../inc/shortcodes/dropcaps-1.php:7
+msgid "Dropcaps 1"
+msgstr ""
+
+#: ../inc/shortcodes/dropcaps-2.php:7
+msgid "Dropcaps 2"
+msgstr ""
+
+#: ../inc/shortcodes/dropcaps-3.php:7
+msgid "Dropcaps 3"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:7
+msgid "Grid 100%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:11
+#, php-format
+msgid "Grid 50% x2"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:15
+#, php-format
+msgid "Grid 33% x3"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:19
+msgid "Grid 33% - 66%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:23
+msgid "Grid 25% - 50% - 25%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:27
+#, php-format
+msgid "Grid 25% x4"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:31
+msgid "Grid 25% - 75%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:35
+msgid "Grid 16.6% - 66.6% - 16.6%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:39
+msgid "Grid 16.6% - 16.6% - 16.6% - 50%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:43
+#, php-format
+msgid "Grid 16.6% x6"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:47
+msgid "Grid 66% - 33%"
+msgstr ""
+
+#: ../inc/shortcodes/grid.php:51
+msgid "Grid 83.3% - 16.6%"
+msgstr ""
+
+#: ../inc/shortcodes/iconbox-1.php:9
+msgid "Icon box 1"
+msgstr ""
+
+#: ../inc/shortcodes/iconbox-2.php:6
+msgid "Icon box 2"
+msgstr ""
+
+#: ../inc/shortcodes/iconbox-3.php:6
+msgid "Icon box 3"
+msgstr ""
+
+#: ../inc/shortcodes/iconbox-4.php:6
+msgid "Icon box 4"
+msgstr ""
+
+#: ../inc/shortcodes/iconbox-5.php:6
+msgid "Icon box 5"
+msgstr ""
+
+#: ../inc/shortcodes/list-icon.php:7
+msgid "List 1"
+msgstr ""
+
+#: ../inc/shortcodes/old_shortcode.php:236
+msgid "0 Comments"
+msgstr ""
+
+#: ../inc/shortcodes/old_shortcode.php:238
+msgid " Comments"
+msgstr ""
+
+#: ../inc/shortcodes/old_shortcode.php:240
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/shortcodes/old_shortcode.php:244
+msgid "Comments off"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:14
+msgctxt "post type general name"
+msgid "Pricings"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:15
+msgctxt "post type singular name"
+msgid "Pricing"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:16
+msgctxt "admin menu"
+msgid "Pricings"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:17
+msgctxt "add new on admin bar"
+msgid "Pricing"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:18
+msgctxt "pricing_table"
+msgid "Add New"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:19
+msgid "Add New Pricing"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:20
+msgid "New Pricing"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:21
+msgid "Edit Pricing"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:22
+msgid "View Pricing"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:23
+msgid "All Pricings"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:24
+msgid "Search Pricings"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:25
+msgid "Parent Pricings:"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:26
+msgid "No pricing_tables found."
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:27
+msgid "No pricing_tables found in Trash."
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:50
+msgctxt "taxonomy general name"
+msgid "Pricing Tags"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:51
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:79 ../inc/shortcodes/pricing-table.php:87
+msgid "Price"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:92
+msgid "Currency"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:97
+msgid "Suffix"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:109
+msgid "Features"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:138
+msgid "Label"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:143
+msgid "URL"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:154 ../inc/shortcodes/pricing-table.php:161
+msgid "Style"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:165
+msgid "Style 1"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:165
+msgid "Style 2"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:173
+msgid "Sticky item"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:184
+msgid "Is Sticky"
+msgstr ""
+
+#: ../inc/shortcodes/pricing-table.php:222
+msgid "Pricing table"
+msgstr ""
+
+#: ../inc/shortcodes/progressbar.php:8
+msgid "Progress Bar"
+msgstr ""
+
+#: ../inc/shortcodes/tab-1.php:7
+msgid "Tab 1"
+msgstr ""
+
+#: ../inc/shortcodes/tab-2.php:7
+msgid "Tab 2"
+msgstr ""
+
+#: ../inc/shortcodes/tab-3.php:7
+msgid "Tab 3"
+msgstr ""
+
+#: ../inc/widgets/about-site.php:15
+msgid "Show about the site."
+msgstr ""
+
+#: ../inc/widgets/about-site.php:17
+msgid "__About Site"
+msgstr ""
+
+#: ../inc/widgets/about-site.php:28
+msgid "Description the site:"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:16
+msgid "__Flickr"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:17
+msgid "Display photo stream from flickr.com"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:23
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:28
+msgid "78715597@N07"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:29
+msgid "ID"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:30
+msgid "Get Flickr ID in <a href=\"http://idgettr.com/\" target=\"__blank\">here</a>."
+msgstr ""
+
+#: ../inc/widgets/flickr.php:35
+msgid "Number of images"
+msgstr ""
+
+#: ../inc/widgets/recent-comment.php:15
+msgid "Display newest comments"
+msgstr ""
+
+#: ../inc/widgets/recent-comment.php:17
+msgid "__Recent Comments"
+msgstr ""
+
+#: ../inc/widgets/recent-comment.php:28
+msgid "Number of comments:"
+msgstr ""
+
+#: ../inc/widgets/recent-comment.php:60
+msgid "say"
+msgstr ""
+
+#: ../inc/widgets/tagline.php:15
+msgid "Show tagline and button"
+msgstr ""
+
+#: ../inc/widgets/tagline.php:17
+msgid "__Tagline"
+msgstr ""
